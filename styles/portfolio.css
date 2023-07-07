@@ -51,9 +51,18 @@ nav a {
 }
 
 /* header related style */
-.headern{
+.headern {
     background-color: #fff8f3e8;
 }
+
 .banner {
     padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner .profile-pic {
+    width: 584px;
+    /* height: 676px; */
 }
