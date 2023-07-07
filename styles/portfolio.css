@@ -1,7 +1,24 @@
+/* common shared styled */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* nav related styles */
 nav {
     display: flex;
 }
 ul li {
     display: flex;
     list-style: none;
+}
+.nav-title {
+    color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.text-primary {
+    color: #FD6E0A
 }
