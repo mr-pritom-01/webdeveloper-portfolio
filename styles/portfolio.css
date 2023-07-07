@@ -6,8 +6,9 @@ body {
 /* nav related styles */
 nav {
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 
 nav ul {
@@ -49,4 +50,10 @@ nav a {
     padding: 15px 35px;
 }
 
-/* header related style *
+/* header related style */
+.headern{
+    background-color: #fff8f3e8;
+}
+.banner {
+    padding: 30px 30px 30px 150px;
+}
