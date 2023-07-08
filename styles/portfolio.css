@@ -117,9 +117,12 @@ main {
     margin: 130px;
 
 }
+
 .about-info-container {
     display: flex;
     justify-content: space-between;
+    margin-left: 14px;
+
 
 }
 
