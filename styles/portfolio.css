@@ -135,9 +135,11 @@ main {
     font-size: 17px;
 
 }
+
 .about-info {
     padding: 5px;
 }
+
 #what-i-do-description {
     padding: 30px 150px;
 }
@@ -149,14 +151,22 @@ main {
     align-content: center;
 
 }
+
 .skill {
-/* border: 2px solid black; */
-margin: 20px;
-margin-bottom: 30px;
-text-align: center;
-padding: 5px;
-/* margin-top: 15px; */
-border-radius: 5px;
-background: #FFF;
-box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.120);
+    /* border: 2px solid black; */
+    margin: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 5px;
+    /* margin-top: 15px; */
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.120);
+}
+
+/* resume section styles */
+.resume-column-title {
+    color: #474747);
+    font-size: 30px;
+    font-weight: 700;
 }
